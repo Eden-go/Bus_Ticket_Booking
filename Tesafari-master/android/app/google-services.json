@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549842403651",
+    "project_id": "tesafari-ef160",
+    "storage_bucket": "tesafari-ef160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549842403651:android:07a0b4dc9585b2dea3eff6",
+        "android_client_info": {
+          "package_name": "com.example.tesafari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549842403651-q8ph0bg4fk97r8lb2l529dsp7egus22s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW87TimoSkG2ti6nzomMdF8_Fshns3gzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549842403651-q8ph0bg4fk97r8lb2l529dsp7egus22s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
